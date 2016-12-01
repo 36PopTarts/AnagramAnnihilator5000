@@ -39,4 +39,4 @@ Eilnst
   listen
   silent
   
-
+This program is pretty quick. The included wordlist.txt is a list of 48162 words, and the program finishes on that set in about five hundredths of a second on average. 
