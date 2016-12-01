@@ -1,0 +1,6 @@
+c:\users\lleblanc\documents\visual studio 2012\Projects\AnagramAnnihilator5000\AnagramAnnihilator5000\bin\Debug\AnagramAnnihilator5000.exe.config
+c:\users\lleblanc\documents\visual studio 2012\Projects\AnagramAnnihilator5000\AnagramAnnihilator5000\bin\Debug\AnagramAnnihilator5000.exe
+c:\users\lleblanc\documents\visual studio 2012\Projects\AnagramAnnihilator5000\AnagramAnnihilator5000\bin\Debug\AnagramAnnihilator5000.pdb
+c:\users\lleblanc\documents\visual studio 2012\Projects\AnagramAnnihilator5000\AnagramAnnihilator5000\obj\Debug\AnagramAnnihilator5000.csprojResolveAssemblyReference.cache
+c:\users\lleblanc\documents\visual studio 2012\Projects\AnagramAnnihilator5000\AnagramAnnihilator5000\obj\Debug\AnagramAnnihilator5000.exe
+c:\users\lleblanc\documents\visual studio 2012\Projects\AnagramAnnihilator5000\AnagramAnnihilator5000\obj\Debug\AnagramAnnihilator5000.pdb
